@@ -3,7 +3,7 @@
   background: #{$background};
   color: #{$text-color};
   border: 1px solid var(--author-badge-border-color);
-  font-size: var(--font-down-1);
+  font-size: 0.8em;
   padding: 0 0.5em;
   line-height: var(--line-height-large);
   @if $font_style == "bold" {
