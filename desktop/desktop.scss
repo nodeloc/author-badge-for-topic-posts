@@ -27,6 +27,7 @@
                       &:after {
                         content: $author-label;
                         @include after-user-names;
+                        order: 3;
                       }
                     }
                   }
