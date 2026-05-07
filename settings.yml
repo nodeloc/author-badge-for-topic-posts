@@ -13,6 +13,12 @@ font_style:
     - bold
     - italic
     - bold-italic
+border_width:
+  type: enum
+  default: "1"
+  choices:
+    - "0"
+    - "1"
 border_color:
   default: "transparent"
 border_radius:
